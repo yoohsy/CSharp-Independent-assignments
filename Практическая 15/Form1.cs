@@ -1,4 +1,6 @@
 namespace Практическая_15
+
+    // работу выполнили Арбузов и Седаш
 {
     public partial class Form1 : Form
     {
